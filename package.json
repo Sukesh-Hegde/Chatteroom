@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "nodemon server.js"
+    "start": "nodemon index.js"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.2.0",
