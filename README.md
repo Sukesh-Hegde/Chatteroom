@@ -18,6 +18,8 @@ Open html file in the browser.
 
 Enter your name and room id of the group and start chating.
 
+### Sreen-shots
+
 
 ![Screenshot 2024-03-14 at 11 12 33 AM](https://github.com/Sukesh-Hegde/Chatteroom/assets/128299015/c8fd8a5b-95fb-4bc0-b673-0f0b71e8d81d)
 ![Screenshot 2024-03-14 at 11 13 58 AM](https://github.com/Sukesh-Hegde/Chatteroom/assets/128299015/22454147-1494-4e9a-ab01-1a78b8d71e03)
