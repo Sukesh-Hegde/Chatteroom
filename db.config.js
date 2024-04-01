@@ -3,7 +3,7 @@ dotenv.config();
 import mongoose from 'mongoose';
 
 // const baseUrl = process.env.MONGODB || '0.0.0.0:27017';
-const baseUrl = "mongodb://localhost:27017/chatUp"
+const baseUrl = "mongodb+srv://sukeshhegde994591:1234@cluster0.a5bcuvt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 
 export const connectToDatabase = async () => {
